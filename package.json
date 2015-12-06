@@ -1,5 +1,5 @@
 {
-  "name": "metalsmith-filemetadata",
+  "name": "metalsmith-remove",
   "version": "0.0.4",
   "description": "Metalsmith plugin to add metadata on files based on a pattern",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/dpobel/metalsmith-filemetadata.git"
+    "url": "git://github.com/iilab/metalsmith-remove.git"
   },
   "keywords": [
     "metalsmith",
@@ -17,9 +17,9 @@
   "author": "Damien Pobel <damien@pobel.fr>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/dpobel/metalsmith-filemetadata/issues"
+    "url": "https://github.com/iilab/metalsmith-remove/issues"
   },
-  "homepage": "https://github.com/dpobel/metalsmith-filemetadata",
+  "homepage": "https://github.com/iilab/metalsmith-remove",
   "dependencies": {
     "minimatch": "^1.0.0"
   },
